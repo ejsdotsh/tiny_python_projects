@@ -35,7 +35,7 @@ def get_args():
 
 # --------------------------------------------------
 def main():
-    """Gnashlycrumb"""
+    """Gashlycrumb"""
 
     args = get_args()
 
